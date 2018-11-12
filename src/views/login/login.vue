@@ -55,17 +55,11 @@ export default {
  
    
     .login-wrap {
-    /* background-color: #324152;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center; */
     position: absolute;
     right: 16%;
     top: 31%;
     }
     .login-wrap .login-form {
-    /* background-color: #fff; */
     width: 400px;
     border-radius: 5px;
     padding: 30px;
